@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wvdgoot
 - 👀 I’m interested in cybersecurity, networking, webapplications.
-- 🌱 I’m currently learning Computer Science.
+- 🌱 I’m currently studying Computer Science.
 <!-- - 📫 How to reach me w.vdgoot@kpnmail.nl -->
 
 <!---
