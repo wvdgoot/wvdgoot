@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @wvdgoot
 - 👀 I’m interested in cybersecurity, networking, webapplications.
 - 🌱 I’m currently studying Computer Science.
+- C++, Rust
 <!-- - 📫 How to reach me w.vdgoot@kpnmail.nl -->
 
 <!---
